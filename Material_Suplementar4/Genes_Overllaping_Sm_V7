@@ -1,0 +1,576 @@
+Chr	Gene	PosInitial	PosEnd	Strand	ID	Overlapping ID	Strand Overlapping	Type of Overlapping	Comment		A														
+SM_V7_1	gene	48341189	48341855	-	Smp_319290	Smp_332470	P	A			B														
+SM_V7_1	gene	66412588	66418100	-	Smp_302410	Smp_148650	P	A			C														
+SM_V7_1	gene	27465021	27466076	P	Smp_246210	Smp_133050	-	C																	
+SM_V7_1	gene	40998922	41003682	-	Smp_316830	Smp_173380	P	A																	
+SM_V7_1	gene	21371760	21372961	-	Smp_163520	Smp_163500	P	A																	
+SM_V7_1	gene	36659162	36660447	-	Smp_331300	Smp_125810	-	A	Both gene are in the negative strand																
+SM_V7_1	gene	42324669	42326767	P	Smp_193150	Smp_126000	-	AC	Intronic and UTR region																
+SM_V7_1	gene	41707813	41710252	-	Smp_318920	Smp_196700	-	A	Both gene are in the negative strand																
+SM_V7_1	gene	66753094	66757556	P	Smp_213940	Smp_213950	P	C	Both gene are in the same strand																
+SM_V7_1	gene	81962016	81987903	-	Smp_320370	Smp_143260	-	C	Both gene are in the same strand																
+SM_V7_1	gene	45676037	45676648	-	Smp_191130	Smp_127370	P	C																	
+SM_V7_1	gene	27740917	27742314	-	Smp_200380	Smp_311150	-	C	Both gene are in the same strand																
+SM_V7_1	gene	18813811	18832589	-	Smp_086600	Smp_169250	-	C																	
+SM_V7_1	gene	50385587	50402932	-	Smp_213790	Smp_124820	P	C																	
+SM_V7_1	gene	64282724	64299645	-	Smp_319800	Smp_319790	-	C	Both gene are in the same strand																
+SM_V7_1	gene	52132761	52152307	-	Smp_105070	Smp_105080	-	C	Both gene are in the same strand																
+SM_V7_1	gene	26596477	26599347	P	Smp_310440	Smp_020200	P	B	Both gene are in the same strand																
+SM_V7_1	gene	33808733	33809197	P	Smp_313820	Smp_128950	-	A																	
+SM_V7_1	gene	37899641	37899967	P	Smp_140480	Smp_332240	-	C																	
+SM_V7_1	gene	35022255	35022542	-	Smp_200850	Smp_330360	P	C	Suspect wrong gene																
+SM_V7_1	gene	13438109	13449463	-	Smp_304310	Smp_003250	P	C																	
+SM_V7_1	gene	70960121	70962672	-	Smp_316860	Smp_072620	P	A																	
+SM_V7_1	gene	51162256	51163745	-	Smp_316850	Smp_212830	P	A																	
+SM_V7_1	gene	68356774	68357451	P	Smp_210390	Smp_210380	P	C	Both gene are in the same strand																
+SM_V7_1	gene	39051365	39055423	-	Smp_318170	Smp_150380	P	C																	
+SM_V7_1	gene	65092086	65112074	P	Smp_147930	Smp_147940	P	C	Both gene are in the same strand																
+SM_V7_1	gene	62879710	62905584	P	Smp_006860	Smp_316510	P	C	Suspect wrong gene																
+SM_V7_1	gene	85550001	85558003	P	Smp_334960	Smp_145840	P	B	Both gene are in the same strand																
+SM_V7_1	gene	55049133	55095457	P	Smp_158450	Smp_159070	-	C																	
+SM_V7_1	gene	44606173	44613522	-	Smp_319150	Smp_319160	-	B	Both gene are in the same strand																
+SM_V7_1	gene	74345148	74352482	P	Smp_320090	Smp_088920	-	C																	
+SM_V7_1	gene	30319733	30335722	-	Smp_014290	Smp_129900	P	C																	
+SM_V7_1	gene	38771740	38772165	P	Smp_210160	Smp_033590	P	C	Both gene are in the same strand																
+SM_V7_1	gene	34984720	34984992	-	Smp_200860	Smp_330340	P	C																	
+SM_V7_1	gene	3686779	3687151	P	Smp_200280	Smp_168280	-	C																	
+SM_V7_1	gene	28348325	28359245	-	Smp_328290	Smp_328280	-	C	Suspect wrong gene Smp_328280																
+SM_V7_1	gene	40717628	40718224	P	Smp_025680	Smp_025670	P	C	Both gene are in the same strand																
+SM_V7_1	gene	3844783	3846038	-	Smp_179950	Smp_326260	-	C	Both gene are in the same strand																
+SM_V7_1	gene	74747460	74768183	P	Smp_166350	Smp_166340	P	C	Both gene are in the same strand																
+SM_V7_1	gene	58235775	58236950	P	Smp_008400	Smp_126650	-	A																	
+SM_V7_1	gene	50827642	50832466	P	Smp_319360	Smp_319370	P	C	Both gene are in the same strand																
+SM_V7_1	gene	14745219	14749932	-	Smp_322510	Smp_162030	P	C																	
+SM_V7_1	gene	65345785	65349975	P	Smp_213920	Smp_213930	P	C																	
+SM_V7_1	gene	18605683	18634398	P	Smp_212870	Smp_323870	P	C																	
+SM_V7_1	gene	40823797	40830572	-	Smp_115290	Smp_136090	-	C																	
+SM_V7_1	gene	74763950	74782350	P	Smp_166340	Smp_166350	P	C																	
+SM_V7_1	gene	43575462	43578968	P	Smp_210460	Smp_057140	P	C																	
+SM_V7_1	gene	14589831	14633942	-	Smp_213740	Smp_213730	-	C																	
+SM_V7_1	gene	24975310	24989885	-	Smp_141160	Smp_035080	P	C																	
+SM_V7_1	gene	23124731	23153936	-	Smp_035540	Smp_326060	P	C																	
+SM_V7_1	gene	64415609	64418945	-	Smp_334880	Smp_148070	P	C																	
+SM_V7_1	gene	34179023	34206449	-	Smp_329760	Smp_012470	P	C																	
+SM_V7_1	gene	59730287	59740629	P	Smp_092990	Smp_173050	P	C																	
+SM_V7_1	gene	49366138	49436663	-	Smp_028030	Smp_137380	P	C																	
+SM_V7_1	gene	10678306	10698197	-	Smp_003990	Smp_320430	-	C																	
+SM_V7_1	gene	62861640	62887976	P	Smp_316510	Smp_201100	P	C																	
+SM_V7_1	gene	16994508	16994570	P	Smp_242040	Smp_176020	-	A																	
+SM_V7_1	gene	41883823	41912127	P	Smp_007170	Smp_007180	-	C																	
+SM_V7_1	gene	65179836	65232290	P	Smp_147920	Smp_319820	P	C																	
+SM_V7_1	gene	79372049	79372363	P	Smp_051670	Smp_051660	-	C																	
+SM_V7_1	gene	75070837	75074335	-	Smp_334940	Smp_103950	-	C																	
+SM_V7_1	gene	35578166	35580476	P	Smp_330560	Smp_161790	P	C																	
+SM_V7_1	gene	54545545	54547826	-	Smp_319500	Smp_210810	P	C																	
+SM_V7_1	gene	74350203	74380743	P	Smp_088940	Smp_320090	P	C																	
+SM_V7_1	gene	86327213	86355177	P	Smp_017470	Smp_131780	P	C																	
+SM_V7_1	gene	27681485	27692483	P	Smp_133030	Smp_019920	P	C																	
+SM_V7_1	gene	58619062	58621214	P	Smp_331710	Smp_319660	P	C																	
+SM_V7_1	gene	29430906	29431415	-	Smp_034530	Smp_140830	-	C																	
+SM_V7_1	gene	66737012	66738958	-	Smp_319880	Smp_148680	-	C																	
+SM_V7_1	gene	61263666	61267108	P	Smp_213870	Smp_165030	P	C																	
+SM_V7_1	gene	45567604	45574398	P	Smp_213270	Smp_213280	P	C																	
+SM_V7_1	gene	26379597	26391752	P	Smp_310240	Smp_210400	P	C																	
+SM_V7_1	gene	10675821	10681337	-	Smp_320430	Smp_004000	P	C																	
+SM_V7_1	gene	51137499	51139322	P	Smp_316840	Smp_032120	P	C	1bp overlapping																
+SM_V7_1	gene	61815049	61833086	P	Smp_054620	Smp_332570	P	C																	
+SM_V7_1	gene	36831109	36864944	-	Smp_006700	Smp_006690	P	C																	
+SM_V7_1	gene	32645337	32661472	-	Smp_071540	Smp_246400	-	C																	
+SM_V7_1	gene	43327824	43335697	-	Smp_301530	Smp_301520	-	C																	
+SM_V7_1	gene	75599445	75601059	P	Smp_320150	Smp_121990	-	B/C	ok																
+SM_V7_1	gene	42916155	42916358	-	Smp_008440	Smp_008430	P	C																	
+SM_V7_1	gene	39845038	39846513	-	Smp_318460	Smp_301180	-	C																	
+SM_V7_1	gene	36533232	36566117	-	Smp_125790	Smp_006590	P	C																	
+SM_V7_1	gene	21219495	21226119	P	Smp_325010	Smp_163550	-	C																	
+SM_V7_1	gene	9719699	9774105	-	Smp_159560	Smp_320080	-	C																	
+SM_V7_1	gene	78845174	78853715	-	Smp_051530	Smp_320220	-	C																	
+SM_V7_1	gene	9514009	9515178	P	Smp_319980	Smp_319950	P	B/C	ok																
+SM_V7_1	gene	41193235	41194230	P	Smp_066830	Smp_332430	P	C	 Smp_066830 needs to be fixed																
+SM_V7_1	gene	4187534	4210377	-	Smp_200460	Smp_158440	-	C																	
+SM_V7_1	gene	6685531	6691476	-	Smp_319030	Smp_318990	-	C																	
+SM_V7_1	gene	10275143	10276232	-	Smp_320230	Smp_013690	P	C																	
+SM_V7_1	gene	78899240	78910985	-	Smp_051550	Smp_149660	P	C																	
+SM_V7_1	gene	2103364	2104059	-	Smp_164480	Smp_078490	P	C																	
+SM_V7_1	gene	16146418	16200968	-	Smp_150740	Smp_150750	P	C																	
+SM_V7_1	gene	74943221	74956986	-	Smp_103990	Smp_104000	P	C																	
+SM_V7_1	gene	61168693	61194544	-	Smp_079700	Smp_165100	P	C																	
+SM_V7_1	gene	20502034	20511900	-	Smp_163640	Smp_307220	P	C																	
+SM_V7_1	gene	43324460	43329487	-	Smp_301520	Smp_057020	P	C																	
+SM_V7_1	gene	54816310	54828774	P	Smp_068090	Smp_068090	P	C																	
+SM_V7_1	gene	13438109	13449463	-	Smp_123870	Smp_003250	P	C																	
+SM_V7_1	gene	33719547	33738521	-	Smp_246380	Smp_012670	P	C																	
+SM_V7_1	gene	20874216	20893815	P	Smp_163590	Smp_324390	P	A	Both gene are in the same strand																
+SM_V7_1	gene	3982087	3984675	-	Smp_184360	Smp_334170	-	B 																	
+SM_V7_1	gene	54185476	54185979	-	Smp_060620	Smp_332510	P	C																	
+SM_V7_1	gene	53203896	53274740	P	Smp_142650	Smp_142670	-	C																	
+SM_V7_1	gene	86405166	86423783	P	Smp_213140	Smp_213130	P	C																	
+SM_V7_1	gene	55627210	55627587	-	Smp_247000	Smp_246990	-	C																	
+SM_V7_1	gene	43529658	43554458	-	Smp_319010	Smp_057120	-	C																	
+SM_V7_1	gene	54880243	54890959	-	Smp_068120	Smp_068110	P	C																	
+SM_V7_1	gene	40749236	40776464	P	Smp_136110	Smp_136120	-	C																	
+SM_V7_1	gene	32676010	32680962	-	Smp_071560	Smp_071550	P	C																	
+SM_V7_1	gene	35035126	35035533	-	Smp_200870	Smp_200820	-	B																	
+SM_V7_1	gene	52803508	52813577	P	Smp_141650	Smp_141660	-	C																	
+SM_V7_1	gene	72784722	72900896	P	Smp_196370	Smp_065470	-	C																	
+SM_V7_1	gene	73706111	73724861	P	Smp_200110	Smp_157590	-	C																	
+SM_V7_1	gene	4329098	4339057	P	Smp_092930	Smp_092950	-	C																	
+SM_V7_1	gene	39434952	39491100	P	Smp_172370	Smp_318360	-	C																	
+SM_V7_1	gene	10347170	10361262	-	Smp_124360	Smp_332680	P	C																	
+SM_V7_1	gene	55728121	55736062	-	Smp_083720	Smp_083710	P	C																	
+SM_V7_1	gene	21746146	21798561	-	Smp_175860	Smp_097790	-	C																	
+SM_V7_1	gene	23427167	23442276	-	Smp_035620	Smp_141320	-	C																	
+SM_V7_1	gene	44060320	44067957	P	Smp_140270	Smp_033530	P	C																	
+SM_V7_1	gene	15188346	15196943	P	Smp_073510	Smp_073500	-	C																	
+SM_V7_1	gene	61442273	61488012	-	Smp_054790	Smp_054800	P	C																	
+SM_V7_1	gene	86561106	86623938	P	Smp_163010	Smp_320500	-	C																	
+SM_V7_1	gene	57553901	57587339	P	Smp_196230	Smp_008140	-	C																	
+SM_V7_1	gene	84134348	84142992	-	Smp_175540	Smp_175550	-	C																	
+SM_V7_1	gene	68015696	68046292	P	Smp_067250	Smp_067260	-	C																	
+SM_V7_1	gene	72581701	72599798	P	Smp_068350	Smp_334910	-	C																	
+SM_V7_1	gene	42865447	42880926	P	Smp_126720	Smp_318980	-	C																	
+SM_V7_1	gene	59054996	59067220	P	Smp_083030	Smp_083040	-	C																	
+SM_V7_1H024	gene	76	6570	P	Smp_321570	Smp_321580	P	C																	
+SM_V7_1H024	gene	31327	34872	-	Smp_321590	Smp_321580	P	C																	
+SM_V7_1H027	gene	23109	33202	-	Smp_332200	Smp_316290	P	C																	
+SM_V7_2	gene	1	8361	P	Smp_128710	Smp_212080	-	A																	
+SM_V7_2	gene	16526	33580	P	Smp_316720	Smp_158230	-	AB	ok																
+SM_V7_2	gene	63336	66489	P	Smp_212970	Smp_311010	P	C																	
+SM_V7_2	gene	71274	76792	P	Smp_030730	Smp_212790	-	A																	
+SM_V7_2	gene	104736	112304	-	Smp_060910	Smp_060900	P	C	Smp_060910 needs to be fixed																
+SM_V7_2	gene	120433	123662	-	Smp_128300	Smp_213080	-	C																	
+SM_V7_2	gene	161462	190362	P	Smp_063560	Smp_063540	P	C																	
+SM_V7_2	gene	212026	227275	P	Smp_041680	Smp_144870	P	C																	
+SM_V7_2	gene	232059	256022	P	Smp_159350	Smp_327740	P	C																	
+SM_V7_2	gene	288156	321970	P	Smp_198880	Smp_242120	-	A	 Smp_198880 very short gene																
+SM_V7_2	gene	330857	331096	-	Smp_311440	Smp_311450	-	C																	
+SM_V7_2	gene	344806	347235	P	Smp_130160	Smp_130170	P	C																	
+SM_V7_2	gene	368686	370674	P	Smp_102480	Smp_140700	P	C																	
+SM_V7_2	gene	493984	494537	-	Smp_311160	Smp_156520	P	C																	
+SM_V7_2	gene	524052	529347	-	Smp_332290	Smp_310770	P	C																	
+SM_V7_2	gene	533381	541365	P	Smp_023160	Smp_023170	P	C																	
+SM_V7_2	gene	570801	577135	-	Smp_009560	Smp_335990	P	C																	
+SM_V7_2	gene	582808	587217	P	Smp_184350	Smp_327350	P	C																	
+SM_V7_2	gene	592724	597067	-	Smp_167000	Smp_082740	P	C																	
+SM_V7_2	gene	600062	609287	P	Smp_328180	Smp_328170	P	C																	
+SM_V7_2	gene	617554	678545	-	Smp_044850	Smp_146340	P	C																	
+SM_V7_2	gene	849006	886367	-	Smp_166960	Smp_082660	P	C																	
+SM_V7_2	gene	863251	865118	P	Smp_147820	Smp_310260	P	C																	
+SM_V7_2	gene	890431	957808	-	Smp_327380	Smp_327370	P	C																	
+SM_V7_2	gene	962402	972389	P	Smp_194560	Smp_121610	P	C																	
+SM_V7_2	gene	972392	1005558	-	Smp_082660	Smp_166960	-	C																	
+SM_V7_2	gene	1007412	1009408	-	Smp_210340	Smp_245730	-	C																	
+SM_V7_2	gene	1030742	1035788	P	Smp_122810	Smp_001410	P	C																	
+SM_V7_2	gene	1050392	1079783	P	Smp_124630	Smp_004640	-	C																	
+SM_V7_2	gene	1102342	1117924	-	Smp_242110	Smp_046870	P	C																	
+SM_V7_2	gene	1145602	1161508	-	Smp_327410	Smp_327400	-	C																	
+SM_V7_2	gene	1233584	1234258	-	Smp_327430	Smp_327420	P	C																	
+SM_V7_2	gene	1250671	1257016	P	Smp_335990	Smp_009560	-	C																	
+SM_V7_2	gene	1275802	1320877	P	Smp_039300	Smp_245560	-	C																	
+SM_V7_2	gene	1358671	1362746	P	Smp_156540	Smp_156550	-	C																	
+SM_V7_2	gene	1400738	1407487	-	Smp_147620	Smp_210320	P	C																	
+SM_V7_2	gene	1487271	1502353	P	Smp_210180	Smp_310930	-	C																	
+SM_V7_2	gene	1539231	1562145	-	Smp_181100	Smp_181090	P	C																	
+SM_V7_2	gene	1923078	1941697	P	Smp_181090	Smp_105480	-	C																	
+SM_V7_2	gene	1944291	1948214	-	Smp_016540	Smp_016550	P	C																	
+SM_V7_2	gene	1944291	1987812	-	Smp_148360	Smp_048930	-	C																	
+SM_V7_2	gene	2171654	2205874	-	Smp_166990	Smp_082710	P	C																	
+SM_V7_2	gene	2211848	2222513	P	Smp_311010	Smp_169050	-	C																	
+SM_V7_2	gene	2231529	2245014	-	Smp_072080	Smp_072090	P	C																	
+SM_V7_2	gene	2262268	2279882	-	Smp_048870	Smp_048880	-	C																	
+SM_V7_2	gene	2283588	2288942	-	Smp_316710	Smp_013930	P	C																	
+SM_V7_2	gene	2291295	2306694	P	Smp_328010	Smp_103810	-	C																	
+SM_V7_2	gene	2326018	2327032	-	Smp_146360	Smp_146370	P	C																	
+SM_V7_2	gene	2338368	2345668	P	Smp_066670	Smp_158240	-	C																	
+SM_V7_2	gene	2355738	2384908	P	Smp_210190	Smp_210180	P	C																	
+SM_V7_2	gene	2387957	2408824	-	Smp_245730	Smp_245740	-	C																	
+SM_V7_2	gene	2419258	2429172	P	Smp_137640	Smp_137650	P	C																	
+SM_V7_2	gene	2429206	2459294	P	Smp_021790	Smp_021800	-	C																	
+SM_V7_2	gene	2473458	2475315	-	Smp_032670	Smp_139850	-	C																	
+SM_V7_2	gene	2508625	2511724	-	Smp_078600	Smp_009560	-	C																	
+SM_V7_2	gene	2535965	2546017	P	Smp_148260	Smp_212360	-	C																	
+SM_V7_2	gene	2569301	2578061	-	Smp_001610	Smp_122940	P	C																	
+SM_V7_2	gene	2579819	2582917	P	Smp_011220	Smp_011230	P	C																	
+SM_V7_2	gene	2579819	2582917	P	Smp_147840	Smp_245510	P	C																	
+SM_V7_2	gene	2584140	2600017	-	Smp_021950	Smp_021960	P	C																	
+SM_V7_2	gene	2611802	2613197	P	Smp_021080	Smp_021070	-	C																	
+SM_V7_3	gene	42211964	42214565	P	Smp_023470	Smp_246290	-	A																	
+SM_V7_3	gene	41360506	41364579	P	Smp_172310	Smp_266950	P	B	The last exon is in the utr region																
+SM_V7_3	gene	18695325	18697181	-	Smp_132390	Smp_246950	-	A	Both gene are in the same strand																
+SM_V7_3	gene	42555804	42563763	P	Smp_309500	Smp_134720	-	C	Smp_134720 needs to be fixed																
+SM_V7_3	gene	36254253	36255275	-	Smp_181510	Smp_309130	-	C																	
+SM_V7_3	gene	4323015	4327996	-	Smp_243390	Smp_307810	P	A																	
+SM_V7_3	gene	6769199	6769658	P	Smp_173780	Smp_311920	-	A																	
+SM_V7_3	gene	21349983	21369596	-	Smp_326020	Smp_326030	-	C																	
+SM_V7_3	gene	41098734	41115399	-	Smp_309430	Smp_212120	-	B																	
+SM_V7_3	gene	24502054	24517591	-	Smp_335290	Smp_106060	-	C																	
+SM_V7_3	gene	19086811	19112034	P	Smp_325940	Smp_132450	-	C																	
+SM_V7_3	gene	20569713	20569901	P	Smp_157580	Smp_162670	P	A																	
+SM_V7_3	gene	18097250	18111182	-	Smp_335260	Smp_018430	P	C																	
+SM_V7_3	gene	48454991	48507915	P	Smp_196810	Smp_007890	-	C																	
+SM_V7_3	gene	26587653	26621662	-	Smp_129130	Smp_308560	-	B																	
+SM_V7_3	gene	32152829	32175026	P	Smp_197480	Smp_316970	P	C																	
+SM_V7_3	gene	28360956	28372020	P	Smp_085750	Smp_168770	-	C																	
+SM_V7_3	gene	6813887	6833757	P	Smp_173790	Smp_094250	P	C																	
+SM_V7_3	gene	18244644	18266639	P	Smp_018490	Smp_018480	P	C																	
+SM_V7_3	gene	21574611	21618658	P	Smp_145930	Smp_044160	P	C																	
+SM_V7_3	gene	32490986	32592740	P	Smp_331930	Smp_165110	P	C																	
+SM_V7_3	gene	6159599	6200032	-	Smp_121390	Smp_316670	-	A																	
+SM_V7_3	gene	4386661	4386858	P	Smp_202440	Smp_204830	-	A																	
+SM_V7_3	gene	46844621	46863445	P	Smp_309680	Smp_309670	-	C																	
+SM_V7_3	gene	6747552	6790295	-	Smp_311920	Smp_173780	P	A																	
+SM_V7_3	gene	29057127	29080148	-	Smp_156270	Smp_063230	-	C																	
+SM_V7_3	gene	25016158	25024994	-	Smp_105860	Smp_246550	P	C																	
+SM_V7_3	gene	36703597	36708925	P	Smp_000690	Smp_000700	P	C																	
+SM_V7_3	gene	4316660	4346504	P	Smp_307810	Smp_325660	P	C																	
+SM_V7_3	gene	19108135	19155597	-	Smp_132450	Smp_325940	P	C																	
+SM_V7_3	gene	27251465	27292219	-	Smp_026250	Smp_136340	P	C																	
+SM_V7_3	gene	12077943	12087022	-	Smp_307950	Smp_307940	-	C																	
+SM_V7_3	gene	20267267	20287554	-	Smp_162620	Smp_162610	P	C																	
+SM_V7_3	gene	16418049	16418255	-	Smp_213360	Smp_213370	-	C																	
+SM_V7_3	gene	29485710	29496691	-	Smp_156340	Smp_063390	P	C																	
+SM_V7_3	gene	42077484	42138482	-	Smp_134860	Smp_134870	P	C																	
+SM_V7_3	gene	28332616	28341895	P	Smp_168780	Smp_085780	-	C																	
+SM_V7_3	gene	17751326	17783804	P	Smp_132250	Smp_132240	-	C																	
+SM_V7_3	gene	38669220	38684602	-	Smp_187940	Smp_000150	-	C																	
+SM_V7_3	gene	31062731	31071190	-	Smp_002820	Smp_002810	P	C																	
+SM_V7_3	gene	20474266	20474742	-	Smp_075030	Smp_162650	-	C																	
+SM_V7_3	gene	36870707	36872071	P	Smp_000620	Smp_000640	P	C																	
+SM_V7_3	gene	36680827	36707926	P	Smp_000700	Smp_000710	P	C																	
+SM_V7_3	gene	12909541	12917925	P	Smp_325840	Smp_194650	-	C																	
+SM_V7_3	gene	50427907	50434912	-	Smp_326820	Smp_188780	-	C																	
+SM_V7_3	gene	25757307	25758735	-	Smp_316690	Smp_212540	P	C																	
+SM_V7_3	gene	27291380	27338195	P	Smp_136340	Smp_026250	-	C																	
+SM_V7_3	gene	12188853	12240082	-	Smp_121920	Smp_121930	-	C																	
+SM_V7_3	gene	27491423	27525607	P	Smp_308680	Smp_092810	P	C																	
+SM_V7_3	gene	7101467	7136013	-	Smp_004550	Smp_242670	P	C																	
+SM_V7_3	gene	34296041	34296696	-	Smp_030030	Smp_030020	-	C																	
+SM_V7_3	gene	32213892	32278705	-	Smp_165170	Smp_079840	P	C																	
+SM_V7_3	gene	8272845	8282570	-	Smp_083540	Smp_167500	P	C																	
+SM_V7_3	gene	13859999	13871917	P	Smp_066330	Smp_066340	P	C																	
+SM_V7_3	gene	1073980	1088462	P	Smp_072790	Smp_161590	-	C																	
+SM_V7_3	gene	42815075	42841827	P	Smp_026910	Smp_136730	P	C																	
+SM_V7_3	gene	21546991	21581735	P	Smp_044160	Smp_145920	-	B																	
+SM_V7_3	gene	28341488	28361112	-	Smp_168770	Smp_085750	P	B																	
+SM_V7_3	gene	44885798	44947221	P	Smp_169700	Smp_197640	-	B																	
+SM_V7_3	gene	14902174	14902983	-	Smp_166810	Smp_082460	-	B																	
+SM_V7_3	gene	29745756	29824364	P	Smp_156390	Smp_308790	-	B/C	ok																
+SM_V7_3	gene	3334977	3335278	P	Smp_202330	Smp_098980	P	C																	
+SM_V7_3	gene	24303993	24343855	P	Smp_106110	Smp_181470	P	B																	
+SM_V7_3	gene	18274104	18298901	P	Smp_132300	Smp_132300	P	B																	
+SM_V7_3	gene	47467036	47509872	P	Smp_134110	Smp_333730	-	B																	
+SM_V7_3	gene	28360956	28371880	P	Smp_317260	Smp_168770	-	B																	
+SM_V7_3	gene	28371879	28383312	-	Smp_085740	Smp_085750	P	C																	
+SM_V7_3H009	gene	28394	35602	-	Smp_321150	Smp_321160	-	B																	
+SM_V7_4	gene	18407919	18409110	-	Smp_111980	Smp_137170	P	A																	
+SM_V7_4	gene	42729715	42730254	P	Smp_316430	Smp_151810	P	A																	
+SM_V7_4	gene	4940383	4941792	P	Smp_158110	Smp_334030	-	A																	
+SM_V7_4	gene	9536368	9539270	-	Smp_315880	Smp_148760	P	A																	
+SM_V7_4	gene	12340966	12343610	-	Smp_317060	Smp_170810	-	A																	
+SM_V7_4	gene	38860455	38864081	-	Smp_151500	Smp_247470	P	A																	
+SM_V7_4	gene	30155153	30155517	P	Smp_071000	Smp_160700	P	C	UTR 3 exon, exactly the same																
+SM_V7_4	gene	42404275	42406810	-	Smp_329740	Smp_149210	-	A																	
+SM_V7_4	gene	43466485	43468658	P	Smp_035730	Smp_141410	P	B																	
+SM_V7_4	gene	23696247	23699982	-	Smp_317080	Smp_135490	P	A																	
+SM_V7_4	gene	35972922	35975477	-	Smp_214360	Smp_214350	-	A																	
+SM_V7_4	gene	227345	251812	-	Smp_180640	Smp_180630	-	C																	
+SM_V7_4	gene	37462983	37466412	-	Smp_317090	Smp_041760	-	C																	
+SM_V7_4	gene	33655065	33656419	P	Smp_329600	Smp_113630	-	C																	
+SM_V7_4	gene	12438846	12455890	-	Smp_200520	Smp_089200	P	B																	
+SM_V7_4	gene	31034153	31035160	-	Smp_193650	Smp_313480	P	B																	
+SM_V7_4	gene	291576	300220	P	Smp_312210	Smp_312200	P	C																	
+SM_V7_4	gene	291576	302301	P	Smp_194140	Smp_312210	P	C																	
+SM_V7_4	gene	18508660	18516770	-	Smp_137190	Smp_329360	-	C																	
+SM_V7_4	gene	38113117	38114049	P	Smp_080130	Smp_080120	P	C																	
+SM_V7_4	gene	38112852	38119694	P	Smp_080150	Smp_080120	P	A	Both gene are in the same strand																
+SM_V7_4	gene	36075306	36080674	-	Smp_213060	Smp_213070	-	B	Both gene are in the same strand																
+SM_V7_4	gene	18883453	18906798	P	Smp_316190	Smp_316180	P	B																	
+SM_V7_4	gene	38112852	38119694	P	Smp_080150	Smp_080130	P	C	Smp_080150 needs to be fixed																
+SM_V7_4	gene	37462983	37477742	-	Smp_317100	Smp_317100	-	C																	
+SM_V7_4	gene	8723789	8727209	-	Smp_329120	Smp_198210	-	C																	
+SM_V7_4	gene	25587022	25627306	P	Smp_145280	Smp_042630	-	C																	
+SM_V7_4	gene	36609407	36620153	P	Smp_042030	Smp_329630	P	C																	
+SM_V7_4	gene	40952108	40983959	-	Smp_194940	Smp_136930	-	C																	
+SM_V7_4	gene	11836887	11837270	-	Smp_062830	Smp_196960	-	C																	
+SM_V7_4	gene	27792035	27795109	P	Smp_329530	Smp_145540	-	C																	
+SM_V7_4	gene	34815513	34818487	P	Smp_202720	Smp_202580	-	C																	
+SM_V7_4	gene	23144536	23155365	-	Smp_317070	Smp_064020.5	-	C																	
+SM_V7_4	gene	26768049	26781342	-	Smp_145450	Smp_145440	P	C																	
+SM_V7_4	gene	41796122	41802752	-	Smp_050430	Smp_149130	-	C																	
+SM_V7_4	gene	11910956	11913490	P	Smp_329200	Smp_213760	-	C																	
+SM_V7_4	gene	23397125	23399581	-	Smp_329450	Smp_069220	P	C																	
+SM_V7_4	gene	34941922	34950479	-	Smp_169620	Smp_087230	-	C																	
+SM_V7_4	gene	41199294	41251502	P	Smp_242360	Smp_212940	P	C																	
+SM_V7_4	gene	27961633	27964861	P	Smp_329540	Smp_247810	-	C																	
+SM_V7_4	gene	31592022	31604000	-	Smp_332080	Smp_095650	P	C																	
+SM_V7_4	gene	8756303	8818320	P	Smp_148940	Smp_198190	-	C																	
+SM_V7_4	gene	5216350	5260321	P	Smp_164720	Smp_192890	-	C																	
+SM_V7_4	gene	25766958	25792198	-	Smp_145300	Smp_247840	-	C	Both gene are in the same strand																
+SM_V7_4	gene	7199058	7323807	P	Smp_036020	Smp_329100	P	C	Both gene are in the same strand																
+SM_V7_4	gene	9059263	9142327	P	Smp_049920	Smp_049930	P	C	Both gene are in the same strand																
+SM_V7_4	gene	30094551	30110256	P	Smp_007960	Smp_007970	P	C	Both gene are in the same strand																
+SM_V7_4	gene	17858546	17886337	P	Smp_137060	Smp_027500	-	C																	
+SM_V7_4	gene	30325487	30331557	-	Smp_070930	Smp_199160	P	C																	
+SM_V7_4	gene	12487534	12495515	P	Smp_089230	Smp_089220	-	C																	
+SM_V7_4	gene	29039494	29052281	P	Smp_153860	Smp_058970	P	C	Both gene are in the same strand																
+SM_V7_4	gene	39516588	39538030	P	Smp_056620	Smp_152530	P	C	Both gene are in the same strand																
+SM_V7_4	gene	26146381	26159356	-	Smp_329510	Smp_145360	-	C	Both gene are in the same strand																
+SM_V7_4	gene	37801784	37840277	P	Smp_130880	Smp_015980	-	C																	
+SM_V7_4	gene	8091386	8110189	-	Smp_050270	Smp_050280	P	C																	
+SM_V7_4	gene	29905776	29928128	P	Smp_059200	Smp_153970	-	C																	
+SM_V7_4	gene	22325330	22325712	-	Smp_066940	Smp_066950	P	C																	
+SM_V7_4	gene	11632953	11660247	-	Smp_312720	Smp_317420	-	C	Both gene are in the same strand																
+SM_V7_4	gene	34478007	34498510	P	Smp_334310	Smp_247600	P	C	Both gene are in the same strand																
+SM_V7_4	gene	10879769	10887753	P	Smp_158810	Smp_172540	P	C	Both gene are in the same strand																
+SM_V7_4	gene	28303648	28329399	-	Smp_313310	Smp_313300	-	C	Both gene are in the same strand																
+SM_V7_4	gene	46403887	46404449	-	Smp_053830	Smp_053820	P	C																	
+SM_V7_4	gene	35936948	35948994	-	Smp_334340	Smp_145070	-	C	Both gene are in the same strand																
+SM_V7_4	gene	25149426	25165030	P	Smp_244220	Smp_042530	-	C																	
+SM_V7_4	gene	36720060	36801593	P	Smp_144970	Smp_042020	-	C																	
+SM_V7_4	gene	38924105	38933309	P	Smp_055190	Smp_151520	-	C																	
+SM_V7_4	gene	30966769	31043257	-	Smp_313480	Smp_313470	-	C	Both gene are in the same strand																
+SM_V7_4	gene	28251283	28273810	P	Smp_150840	Smp_150850	-	C																	
+SM_V7_4	gene	40768903	40797834	P	Smp_136910	Smp_317120	-	C																	
+SM_V7_4H002	gene	84986	86939	P	Smp_327010	Smp_027830	-	B																	
+SM_V7_5	gene	21148679	21163027	P	Smp_191730	Smp_144020	P	A	Both gene are in the same strand																
+SM_V7_5	gene	9434314	9438039	-	Smp_330420	Smp_330410	P	A																	
+SM_V7_5	gene	7866195	7883780	-	Smp_129960	Smp_129950	P	C																	
+SM_V7_5	gene	16112384	16127788	P	Smp_243300	Smp_212510	P	W	Suspect wrong gene																
+SM_V7_5	gene	23048906	23096627	-	Smp_169290	Smp_086690	P	C																	
+SM_V7_5	gene	20958463	20972402	-	Smp_317210	Smp_040130	P	B																	
+SM_V7_5	gene	411732	430674	P	Smp_329940	Smp_329930	P	B/C	Both gene are in the same strand																
+SM_V7_5	gene	3045026	3048539	P	Smp_329980	Smp_192610	P	C	Both gene are in the same strand																
+SM_V7_5	gene	10396203	10399808	-	Smp_150590	Smp_053100	-	A/B																	
+SM_V7_5	gene	8780516	8780912	-	Smp_332100	Smp_026090	P	C																	
+SM_V7_5	gene	7055637	7057528	-	Smp_056680	Smp_317160/Smp_317170	-/P	A/C	Genes Smp_056680 and Smp_317160 are in the same strand																
+SM_V7_5	gene	24225980	24230845	-	Smp_330870	Smp_266880	P	C																	
+SM_V7_5	gene	25160127	25191912	-	Smp_315010	Smp_170200	-	C	Both gene are in the same strand																
+SM_V7_5	gene	7210002	7211357	P	Smp_112090	Smp_336190	-	C																	
+SM_V7_5	gene	24009156	24053741	P	Smp_133490	Smp_020800	-	C																	
+SM_V7_5	gene	9410073	9466272	P	Smp_330410	Smp_330400	P	B	Both gene are in the same strand																
+SM_V7_5	gene	12430036	12437456	-	Smp_058150	Smp_058140	P	C																	
+SM_V7_5	gene	16621806	16639114	-	Smp_213630	Smp_213620	-	C	Both gene are in the same strand																
+SM_V7_5	gene	20948095	20953122	-	Smp_202850	Smp_330750/Smp_040130	-/P	C A/B	Genes Smp_202850 and Smp_330750 are in the same strand																
+SM_V7_5	gene	9753793	9761627	P	Smp_092750	Smp_333190	-	C																	
+SM_V7_5	gene	13355952	13376189	P	Smp_043650	Smp_043670	-	C																	
+SM_V7_5	gene	17240086	17259656	-	Smp_064380	Smp_064390	P	C																	
+SM_V7_5	gene	22964201	22987554	P	Smp_086710	Smp_169320	-	C																	
+SM_V7_5	gene	9263546	9283140	P	Smp_213600	Smp_154530	-	C																	
+SM_V7_5	gene	17402600	17436339	P	Smp_156850	Smp_064320	-	C																	
+SM_V7_5H024	gene	1	1137	P	Smp_325180	Smp_325190	-	C																	
+SM_V7_5H024	gene	6289	8032	-	Smp_325200	Smp_325190	-	C																	
+SM_V7_6	gene	7471127	7471702	-	Smp_331400	Smp_315910	-	A	Both gene are in the same strand																
+SM_V7_6	gene	16163638	16163992	P	Smp_035790	Smp_141440	-	C																	
+SM_V7_6	gene	24643719	24643967	P	Smp_077790	Smp_332250	-	C																	
+SM_V7_6	gene	832481	858578	P	Smp_315090	Smp_315080	P	B/C	Both gene are in the same strand																
+SM_V7_6	gene	22480008	22494899	-	Smp_317640	Smp_317650	-	C	Both gene are in the same strand																
+SM_V7_6	gene	6445254	6458520	-	Smp_267090	Smp_158620	P	A																	
+SM_V7_6	gene	18390196	18396824	-	Smp_149360	Smp_149350	-	B	Both gene are in the same strand	Needs to be fixed															
+SM_V7_6	gene	1204623	1233459	-	Smp_331160	Smp_331150	-	C	Both gene are in the same strand																
+SM_V7_6	gene	7421666	7445430	P	Smp_316330	Smp_316320	-	C																	
+SM_V7_6	gene	22835858	22874769	-	Smp_127110	Smp_009340	-	C	Both gene are in the same strand																
+SM_V7_6	gene	10375917	10378178	-	Smp_169920	Smp_087810	P	C																	
+SM_V7_6	gene	2998316	3001851	P	Smp_170840	Smp_334700	P	C																	
+SM_V7_6	gene	3336066	3337622	P	Smp_202920	Smp_170910	P	C	Both gene are in the same strand																
+SM_V7_6	gene	24123731	24148642	-	Smp_164030	Smp_164020	-	C	Both gene are in the same strand																
+SM_V7_6	gene	15400087	15427483	-	Smp_135720	Smp_334800	-	C	Both gene are in the same strand																
+SM_V7_6	gene	11710325	11746537	-	Smp_334750	Smp_315570	P	C																	
+SM_V7_6	gene	16767459	16789943	P	Smp_059710	Smp_059690	-	C																	
+SM_V7_6	gene	24055618	24124632	-	Smp_164020	Smp_164010	P	C																	
+SM_V7_6	gene	4597885	4612559	P	Smp_002150	Smp_123240	P	C	Both gene are in the same strand																
+SM_V7_6	gene	13072283	13128590	P	Smp_156790	Smp_156780	-	C																	
+SM_V7_6	gene	23828136	23849930	P	Smp_163980	Smp_077540	P	C	Both gene are in the same strand																
+SM_V7_6	gene	1819868	1836288	-	Smp_174680	Smp_331190	-	C	Both gene are in the same strand																
+SM_V7_6	gene	22755073	22792227	P	Smp_127130	Smp_127140	-	C																	
+SM_V7_6	gene	2876437	2897961	P	Smp_179270	Smp_179290	-	C																	
+SM_V7_6	gene	1945757	1985051	P	Smp_074150	Smp_074140	P	C	Both gene are in the same strand																
+SM_V7_6	gene	22792103	22823957	P	Smp_127120	Smp_127130	P	C	Both gene are in the same strand																
+SM_V7_6H004	gene	50129	63012	-	Smp_329880	Smp_314140	P	C																	
+SM_V7_6H013	gene	9828	16172	-	Smp_321210	Smp_321200	-	C																	
+SM_V7_6H022	gene	15416	24884	P	Smp_325380	Smp_325370	P	C																	
+SM_V7_7	gene	14123400	14124854	P	Smp_006060	Smp_125420	P	A	Both gene are in the same strand																
+SM_V7_7	gene	7247927	7249072	-	Smp_316800	Smp_210090	-	A	Both gene are in the same strand																
+SM_V7_7	gene	7151309	7165192	P	Smp_334850	Smp_315820	-	A																	
+SM_V7_7	gene	13793653	13799874	P	Smp_318400	Smp_318390	-	C																	
+SM_V7_7	gene	13234045	13292797	P	Smp_332340	Smp_166690	P	C	Both gene are in the same strand																
+SM_V7_7	gene	6642442	6667452	P	Smp_211290	Smp_010900	P	C	Both gene are in the same strand																
+SM_V7_7	gene	19061240	19087252	P	Smp_267250	Smp_267240	P	C	Both gene are in the same strand																
+SM_V7_7	gene	2526885	2527730	-	Smp_155710	Smp_139870	-	W	Suspect wrong gene																
+SM_V7_7	gene	11549004	11588034	P	Smp_210370	Smp_210360	P	C	Both gene are in the same strand																
+SM_V7_7	gene	18743751	18842062	P	Smp_212300	Smp_125110	-	C																	
+SM_V7_7	gene	1041554	1058480	-	Smp_300510	Smp_300490	-	C	Both gene are in the same strand																
+SM_V7_7	gene	8045643	8059978	-	Smp_318200	Smp_140110	-	C	Both gene are in the same strand																
+SM_V7_7	gene	15461820	15499195	-	Smp_170550	Smp_125150	P	C																	
+SM_V7_7	gene	10680423	10715085	P	Smp_336610	Smp_144660	-	C																	
+SM_V7_MITO	gene	11602	12861	P	Smp_900090	Smp_900080	P	B	Both gene are in the same strand	OK, MT															
+SM_V7_ZW	gene	81084928	81085659	-	Smp_316610	Smp_163920	-	A	Both gene are in the same strand																
+SM_V7_ZW	gene	12787323	12788748	-	Smp_322150	Smp_242530	P	A																	
+SM_V7_ZW	gene	24683566	24686501	P	Smp_036670	Smp_245100	-	A																	
+SM_V7_ZW	gene	23575474	23592024	P	Smp_133550	Smp_245200	-	A																	
+SM_V7_ZW	gene	19365150	19366174	-	Smp_304340	Smp_126260	P	A																	
+SM_V7_ZW	gene	26551251	26599746	P	Smp_304730	Smp_332990	P	W	Suspect wrong gene																
+SM_V7_ZW	gene	71959736	71960219	-	Smp_112930	Smp_333310	P	A																	
+SM_V7_ZW	gene	66268802	66277075	-	Smp_316590	Smp_244090	P	A																	
+SM_V7_ZW	gene	85583179	85600000	P	Smp_307350	Smp_307380	P	W	Both gene are in the same strand	alternative splicing?															
+SM_V7_ZW	gene	35953984	35955478	P	Smp_322900	Smp_302920	-	A																	
+SM_V7_ZW	gene	38265658	38279864	P	Smp_159130	Smp_159110	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	82076933	82081316	-	Smp_307150	Smp_017080	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	33559810	33584138	P	Smp_244840	Smp_128310	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	18377926	18378846	P	Smp_200120	Smp_332920	-	A																	
+SM_V7_ZW	gene	12392462	12397239	P	Smp_316910	Smp_332870	-	A																	
+SM_V7_ZW	gene	35036327	35053162	-	Smp_059870	Smp_059880	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	56910004	56926719	-	Smp_306150	Smp_306140	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	84267898	84271962	P	Smp_324370	Smp_333390	-	A																	
+SM_V7_ZW	gene	35245322	35274950	-	Smp_021390	Smp_305040	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	64169004	64170531	P	Smp_323880	Smp_316580	-	A																	
+SM_V7_ZW	gene	85551863	85565812	-	Smp_333020	Smp_307340	-	W	Suspect wrong gene																
+SM_V7_ZW	gene	31164733	31180927	P	Smp_080520	Smp_165540	P	W	Smp_165540, Suspect wrong gene																
+SM_V7_ZW	gene	3795025	3795744	P	Smp_088390	Smp_170260	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	57599973	57637178	-	Smp_135270	Smp_024220	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	66211721	66232335	-	Smp_323930	Smp_323920	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	37327156	37366008	-	Smp_172280	Smp_322940	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	51639615	51649729	P	Smp_323460	Smp_157710	P	B	Both gene are in the same strand																
+SM_V7_ZW	gene	66965873	66969238	-	Smp_130610	Smp_015440	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	74963001	75005129	-	Smp_143760	Smp_039670	P	B/C																	
+SM_V7_ZW	gene	64161405	64183350	-	Smp_316580	Smp_267150/Smp_162400	P/-	B	Genes Smp_316580 and Smp_162400 are in the same strand																
+SM_V7_ZW	gene	51488898	51497723	-	Smp_323440	Smp_323450	-	A	Both gene are in the same strand																
+SM_V7_ZW	gene	26923926	26958661	P	Smp_245040	Smp_245030	P	C																	
+SM_V7_ZW	gene	17667328	17668639	-	Smp_316920	Smp_031180	P	A																	
+SM_V7_ZW	gene	16855072	16863450	P	Smp_316740	Smp_134160	P	B	Both gene are in the same strand																
+SM_V7_ZW	gene	40645145	40694993	P	Smp_172810	Smp_323000	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	69997291	70004865	-	Smp_331820	Smp_324020	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	14545765	14546118	-	Smp_028410	Smp_137540	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	87860177	87867252	-	Smp_324490	Smp_180780	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	40495896	40501723	P	Smp_173910	Smp_094470	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	9672985	9696376	-	Smp_321990	Smp_180500	P	C																	
+SM_V7_ZW	gene	82410474	82413433	-	Smp_185440	Smp_131580	P	A																	
+SM_V7_ZW	gene	74809344	74839489	-	Smp_039640	Smp_203990	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	84959310	84965425	-	Smp_173660	Smp_173650	P	C																	
+SM_V7_ZW	gene	13437338	13463891	-	Smp_204050	Smp_304160	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	31332710	31335460	-	Smp_322670	Smp_165570/Smp_322680	-/P	C	Genes Smp_322670 and Smp_165570 are in the same strand																
+SM_V7_ZW	gene	21381421	21407331	-	Smp_174370	Smp_174380	P	C																	
+SM_V7_ZW	gene	62013016	62018014	P	Smp_323800	Smp_323810	-	B/C																	
+SM_V7_ZW	gene	27570200	27604434	P	Smp_032930	Smp_032920	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	52701520	52705893	P	Smp_135970	Smp_025410	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	56690237	56705256	-	Smp_102750	Smp_179370	P	C																	
+SM_V7_ZW	gene	42397105	42401451	-	Smp_316570	Smp_155390	P	B																	
+SM_V7_ZW	gene	28141948	28172376	P	Smp_142150	Smp_037120	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	25075727	25092333	P	Smp_153750	Smp_153760	-	C																	
+SM_V7_ZW	gene	49091424	49095507	P	Smp_305780	Smp_305770	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	43276423	43291095	P	Smp_305360	Smp_333080/Smp_147520	P	C	The 3 genes are in the same strand																
+SM_V7_ZW	gene	83587137	83604166	P	Smp_163000	Smp_316630	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	30223973	30227783	P	Smp_173520	Smp_304880/Smp_093830	P/-	C	Genes Smp_173520 and Smp_304880 are in the same strand																
+SM_V7_ZW	gene	31940452	31943573	-	Smp_304940	Smp_304950	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	31962665	31990973	-	Smp_145560	Smp_100350	P	C																	
+SM_V7_ZW	gene	30224094	30234129	-	Smp_093830	Smp_173520	P	C																	
+SM_V7_ZW	gene	65760381	65791934	-	Smp_084010	Smp_244210	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	35371244	35374785	P	Smp_322810	Smp_133790	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	36407736	36436788	-	Smp_157910	Smp_059240	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	46953363	46956656	P	Smp_153730	Smp_058720	P	B/C	Both gene are in the same strand																
+SM_V7_ZW	gene	30732403	30751588	P	Smp_194240	Smp_158030	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	20168929	20172105	-	Smp_335670	Smp_198590	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	31940452	31951083	-	Smp_304950	Smp_304940	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	71416476	71419381	-	Smp_095590	Smp_095580	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	33125490	33125795	-	Smp_012050	Smp_128610	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	35209604	35243953	P	Smp_316530	Smp_021370	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	49989800	50045703	P	Smp_074710	Smp_017750	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	27054459	27069141	P	Smp_174950	Smp_245020	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	59562144	59564818	-	Smp_323750	Smp_054360	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	85875624	85875980	-	Smp_103330	Smp_103320	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	41078653	41081289	-	Smp_203580	Smp_179610	-	A	Both gene are in the same strand																
+SM_V7_ZW	gene	22007594	22015007	-	Smp_104710	Smp_166610	P	C																	
+SM_V7_ZW	gene	9571378	9598132	-	Smp_180470	Smp_212240	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	82668600	82690902	-	Smp_070340	Smp_070330	P	C																	
+SM_V7_ZW	gene	74804329	74815504	-	Smp_203990	Smp_143740	P	C																	
+SM_V7_ZW	gene	43178167	43192660	-	Smp_323070	Smp_158310	P	C																	
+SM_V7_ZW	gene	27671344	27673606	-	Smp_322550	Smp_139970	P	C																	
+SM_V7_ZW	gene	18933328	18971153	-	Smp_126310	Smp_007760	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	34671819	34674054	-	Smp_322780	Smp_011830	P	C																	
+SM_V7_ZW	gene	7939306	7959965	-	Smp_321940	Smp_145820	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	28334261	28343084	-	Smp_244950	Smp_244960	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	38942546	38971377	-	Smp_242440	Smp_316560	-	A	Both gene are in the same strand																
+SM_V7_ZW	gene	15300898	15301137	-	Smp_204360	Smp_137430	P	C																	
+SM_V7_ZW	gene	64904738	64914376	P	Smp_180360	Smp_180370	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	35022046	35053162	-	Smp_059880	Smp_244750	P	C																	
+SM_V7_ZW	gene	51425578	51437573	-	Smp_323420	Smp_157760	P	C																	
+SM_V7_ZW	gene	9034173	9035960	-	Smp_038430	Smp_038420	-	C																	
+SM_V7_ZW	gene	64194264	64246533	P	Smp_162390	Smp_162400	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	22545821	22547646	-	Smp_245260	Smp_302850	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	43343962	43351180	-	Smp_203630	Smp_323080	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	25262708	25287943	-	Smp_125560	Smp_125550	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	75326934	75366979	-	Smp_039750	Smp_039740	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	16812492	16863450	P	Smp_134160	Smp_022310	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	38679116	38684344	P	Smp_322970	Smp_068220/Smp_159090	P/-	C	Genes Smp_322970 and Smp_068220 are in the same strand																
+SM_V7_ZW	gene	38750616	38761280	P	Smp_204160	Smp_159090	-	C																	
+SM_V7_ZW	gene	57177328	57177720	-	Smp_024120	Smp_024110	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	30771117	30784189	-	Smp_121140	Smp_121130	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	51318372	51342623	-	Smp_157780	Smp_065980	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	11038834	11040192	-	Smp_322030	Smp_057630	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	72681924	72721343	-	Smp_124780	Smp_004910	P	C																	
+SM_V7_ZW	gene	64307854	64343472	P	Smp_074590	Smp_162370	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	25915891	25934956	-	Smp_044530	Smp_146180	P	C																	
+SM_V7_ZW	gene	18042445	18056892	-	Smp_031300	Smp_322320	-	B/C	Both gene are in the same strand																
+SM_V7_ZW	gene	27888161	27920826	-	Smp_209040	Smp_168060	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	26527602	26532877	-	Smp_096480	Smp_322520	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	43960445	43967795	-	Smp_047090	Smp_147420	P	C																	
+SM_V7_ZW	gene	47988903	48006578	-	Smp_176370	Smp_098650	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	20566584	20582089	P	Smp_022560	Smp_022570	-	C																	
+SM_V7_ZW	gene	53349844	53360972	-	Smp_025160	Smp_323550/Smp_323540	P	C	Genes Smp_323550 and Smp_323540 are in the same strand																
+SM_V7_ZW	gene	42965675	42966670	-	Smp_151690	Smp_210900	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	22633096	22661396	-	Smp_159510	Smp_245240	P	C																	
+SM_V7_ZW	gene	36136305	36152740	-	Smp_305060	Smp_305050	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	29415863	29444523	P	Smp_127270	Smp_330650	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	34451158	34469536	P	Smp_305030	Smp_305020	P	B/C	Both gene are in the same strand																
+SM_V7_ZW	gene	20581284	20614619	P	Smp_101990	Smp_022560	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	74625467	74649301	-	Smp_038140	Smp_142850	P	C																	
+SM_V7_ZW	gene	14888566	14917334	P	Smp_198690	Smp_028330	-	C																	
+SM_V7_ZW	gene	26987826	27002892	-	Smp_096160	Smp_174920	P	C																	
+SM_V7_ZW	gene	63841926	63857811	-	Smp_267140	Smp_267130	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	75110458	75125801	P	Smp_244160	Smp_244150	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	33076276	33116387	P	Smp_128600	Smp_012030	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	2531636	2536289	-	Smp_015530	Smp_015520	P	C																	
+SM_V7_ZW	gene	85228469	85262866	P	Smp_081460	Smp_081450	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	28235351	28252835	P	Smp_142180	Smp_335700	-	C																	
+SM_V7_ZW	gene	24404973	24412867	P	Smp_036550	Smp_245110	-	C																	
+SM_V7_ZW	gene	20941836	20960278	P	Smp_138600	Smp_022110	-	C																	
+SM_V7_ZW	gene	73073004	73078424	-	Smp_151180	Smp_151190	P	C																	
+SM_V7_ZW	gene	52780318	52810835	-	Smp_214330	Smp_025370	P	C																	
+SM_V7_ZW	gene	34753966	34769729	P	Smp_011860	Smp_128480	-	C																	
+SM_V7_ZW	gene	42535275	42588307	P	Smp_244560	Smp_155420	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	55798301	55821774	P	Smp_146810	Smp_203720	-	C																	
+SM_V7_ZW	gene	6161295	6198812	-	Smp_133820	Smp_133830	P	C																	
+SM_V7_ZW	gene	47291886	47374375	P	Smp_026670	Smp_136570	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	78143044	78232174	P	Smp_266840	Smp_155000	-	C																	
+SM_V7_ZW	gene	44413724	44459462	-	Smp_163250	Smp_076230	P	C																	
+SM_V7_ZW	gene	84995600	85019485	-	Smp_316640	Smp_094050	P	C																	
+SM_V7_ZW	gene	11646402	11646749	-	Smp_006980	Smp_332860	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	3942966	3958483	-	Smp_061040	Smp_154940	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	58438382	58486612	-	Smp_306200	Smp_241450	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	27945939	27950774	-	Smp_037190	Smp_332950	P	C																	
+SM_V7_ZW	gene	25331902	25371743	-	Smp_332930	Smp_120380	P	C																	
+SM_V7_ZW	gene	36633542	36673666	P	Smp_333040	Smp_164770	-	C																	
+SM_V7_ZW	gene	34566118	34631248	P	Smp_244770	Smp_128440	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	13030024	13091686	-	Smp_304130	Smp_164820	P	C																	
+SM_V7_ZW	gene	43558074	43579418	P	Smp_147360	Smp_196110	-	C																	
+SM_V7_ZW	gene	71542707	71557751	-	Smp_306730	Smp_088240	P	C																	
+SM_V7_ZW	gene	53811885	53881439	-	Smp_323570	Smp_135790	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	23987395	24016002	-	Smp_245160	Smp_245150.1	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	84892589	84924115	-	Smp_178230	Smp_136530	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	8802608	8826031	P	Smp_142980	Smp_142970	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	44893721	44900291	-	Smp_163330	Smp_163320	P	C																	
+SM_V7_ZW	gene	26330222	26375177	-	Smp_006350	Smp_006340	P	C																	
+SM_V7_ZW	gene	20075847	20098845	-	Smp_134350	Smp_134360	P	C																	
+SM_V7_ZW	gene	59512752	59525731	P	Smp_151250	Smp_194820	-	C																	
+SM_V7_ZW	gene	17183960	17223072	-	Smp_031040	Smp_138980	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	49791102	49848092	P	Smp_131950	Smp_131970	-	C																	
+SM_V7_ZW	gene	83089259	83107859	P	Smp_162920	Smp_162910	-	C																	
+SM_V7_ZW	gene	83561967	83590951	P	Smp_316630	Smp_244130	-	C																	
+SM_V7_ZW	gene	53052565	53084920	-	Smp_135900	Smp_025260	P	C																	
+SM_V7_ZW	gene	85943066	85953966	P	Smp_164660	Smp_078900	P	C	Both gene are in the same strand																
+SM_V7_ZW	gene	85317529	85331942	P	Smp_081510	Smp_166050	-	C																	
+SM_V7_ZW	gene	60669554	60785249	-	Smp_142740	Smp_142710	-	C	Both gene are in the same strand																
+SM_V7_ZW	gene	21804648	21838652	P	Smp_246870	Smp_166580	-	C																	
+SM_V7_ZW	gene	44344087	44384772	-	Smp_242800	Smp_147460	P	C																	
+SM_V7_ZWH007	gene	20717	41962	-	Smp_333130	Smp_135170	P	C																	
+SM_V7_ZWH023	gene	6026	9062	-	Smp_321640	Smp_321630	-	C																	
+SM_V7_ZWU001	gene	174597	189652	-	Smp_320810	Smp_320800	P	C																	
+SM_V7_ZWU002	gene	101437	115942	-	Smp_303570	Smp_321310	P	C															

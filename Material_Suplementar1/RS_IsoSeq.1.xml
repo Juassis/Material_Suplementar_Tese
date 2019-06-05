@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?><smrtpipeSettings>
+  <protocol version="2.3.0" id="RS_IsoSeq.1" editable="false">
+  <application>De novo assembly</application>
+    <param name="name" label="Protocol Name">
+      <value>RS_IsoSeq</value>
+      <input type="text"/>
+      <rule required="true"/>
+    </param>
+    <param name="description">
+      <value>Classify, de novo cluster, and map cDNA sequences.</value>
+      <textarea />
+    </param>
+    <param name="version" hidden="true">
+      <value>1</value>
+      <input type="text"/>
+      <rule type="digits" required="true" min="1.0"/>
+    </param>
+    <param name="state" hidden="true">
+      <value>active</value>
+      <input value="active" type="radio"/>
+      <input value="inactive" type="radio"/>
+    </param>
+    <param name="reference" hidden="true">
+      <value></value>
+      <rule required="false"/>
+    </param>
+    <param name="control" hidden="true">
+        <value></value>
+    </param>
+    <param name="fetch" hidden="true">
+      <value>common/protocols/preprocessing/Fetch.1.xml</value>
+    </param>
+    <param name="filtering">
+      <value>common/protocols/consensus/IsoSeq_ReadsOfInsert.1.xml</value>
+      <select multiple="true">
+        <import contentType="text/directory" extension="xml">common/protocols/consensus</import>
+      </select>
+    </param>
+    <param name="barcode" editableInJob="true" hidden="true"/>
+    <param name="isoseq_classify">
+      <value>common/protocols/isoseq/Classify.1.xml</value>
+    </param>
+    <param name="isoseq_cluster">
+      <value>common/protocols/isoseq/Cluster.1.xml</value>
+    </param>
+    <param name="isoseq_report" hidden="true">
+      <value>common/protocols/isoseq/IsoSeqReports.1.xml</value>
+    </param>
+  </protocol>
+  <moduleStage name="fetch" editable="true"/>
+  <moduleStage name="filtering"/>
+  <moduleStage name="barcode"/>
+  <moduleStage name="isoseq_classify"/> 
+  <moduleStage name="isoseq_cluster"/> 
+  <moduleStage name="isoseq_report"/> 
+</smrtpipeSettings>
